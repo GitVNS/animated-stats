@@ -1,3 +1,3 @@
-# stats_animation
+# Stats Animation
 
-A new Flutter project.
+![](https://github.com/GitVNS/animated-stats/blob/main/sample/sample.gif)
